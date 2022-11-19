@@ -1,25 +1,25 @@
-global.you = ['6285850539404'] 
+global.you = ['923219842745'] 
 //Developer Bot
-global.gc = 'https://chat.whatsapp.com/I5Kz3Abawc5DqyBSDoYvKB'
-global.rowner = ['6285850539404'] // Real Owner Bot
-global.owner = ['6285850539404'] // Owner Bot
-global.police = ['6285850539404'] // Police Bot
-global.mods = ['6285850539404']  // Want some help?
-global.prems = ['6285850539404'] // Premium user has unlimited limit
-global.fotonya1 = 'https://telegra.ph/file/00ca947f49354f6c108da.jpg' //ini kalo mau di ganti silahkan ganti aja
-global.fotonya2 = 'https://telegra.ph/file/00ca947f49354f6c108da.jpg' //gw lupa nih foto apa aja:v
-global.fotonya3 = 'https://telegra.ph/file/00ca947f49354f6c108da.jpg' //ini juga ganti
-global.fotonya4 = 'https://telegra.ph/file/00ca947f49354f6c108da.jpg' //ini juga ganti
-global.fotonya5 = 'https://telegra.ph/file/00ca947f49354f6c108da.jpg' //ini juga ganti
-global.fotonya6 = 'https://telegra.ph/file/00ca947f49354f6c108da.jpg' //ini ganti pakai foto sosialmedia mu
-global.fotonya7 = 'https://telegra.ph/file/00ca947f49354f6c108da.jpg'
-global.instagram = 'https://instagram.com/Jarotr_'
+global.gc = 'https://api.whatsapp.com/send?phone=923229931076'
+global.rowner = ['923229931076'] // Real Owner Bot
+global.owner = ['923229931076'] // Owner Bot
+global.police = ['923229931076'] // Police Bot
+global.mods = ['923229931076']  // Want some help?
+global.prems = ['923229931076'] // Premium user has unlimited limit
+global.fotonya1 = 'https://telegra.ph/file/3b7ec1308edb07983efef.png' //ini kalo mau di ganti silahkan ganti aja
+global.fotonya2 = 'https://telegra.ph/file/3b7ec1308edb07983efef.png' //gw lupa nih foto apa aja:v
+global.fotonya3 = 'https://telegra.ph/file/3b7ec1308edb07983efef.png' //ini juga ganti
+global.fotonya4 = 'https://telegra.ph/file/3b7ec1308edb07983efef.png' //ini juga ganti
+global.fotonya5 = 'https://telegra.ph/file/3b7ec1308edb07983efef.png' //ini juga ganti
+global.fotonya6 = 'https://telegra.ph/file/3b7ec1308edb07983efef.png' //ini ganti pakai foto sosialmedia mu
+global.fotonya7 = 'https://telegra.ph/file/3b7ec1308edb07983efef.png'
+global.instagram = 'https://www.instagram.com/iamibrahim_2005/'
 
 global.helper = ['6285850539404']
 global.APIs = { // API Prefix
   // name: 'https://website'
   amel: 'https://melcanz.com',
-    bx: 'https://bx-hunter.herokuapp.com',
+  bx: 'https://bx-hunter.herokuapp.com',
   dhnjing: 'https://dhnjing.xyz', 
   hardianto: 'https://hardianto.xyz',
   jonaz: 'https://jonaz-api-v2.herokuapp.com',
@@ -55,7 +55,7 @@ global.APIKeys = { // APIKey Here
   'https://pencarikode.xyz': 'pais',
   'https://leyscoders-api.herokuapp.com': 'dappakntlll',
   'https://zekais-api.herokuapp.com': 'zekais',
-  'https://api.lolhuman.xyz': 'pelitbetsihluwh',
+  'https://api.lolhuman.xyz': '85faf717d0545d14074659ad',
 }
 
 global.socket = {
@@ -77,23 +77,23 @@ global.dxlsx = 'application/vnd.openxmlformats-officedocument.spreadsheetml.shee
 global.dpdf = 'application/pdf'
 global.drtf = 'text/rtf'
 
-global.thumbdoc = 'https://telegra.ph/file/537edd58e7f8849a7dc50.jpg'
+global.thumbdoc = 'https://telegra.ph/file/3b7ec1308edb07983efef.png'
 
 /*=========== FAKE SIZE ===========*/
 global.fsizedoc = '564588643' // default 10TB
 global.fpagedoc = '444'
 
 // Sticker WM
-global.packname = 'Jarot offc'
-global.author = 'Jarot offc'
-global.wm = '© Jarot offc'
+global.packname = '𝕀𝕥𝕩_𝕚𝕓𝕣𝕒𝕙𝕚𝕞'
+global.author = '𝕀𝕥𝕩_𝕚𝕓𝕣𝕒𝕙𝕚𝕞'
+global.wm = '© 𝕀𝕥𝕩_𝕚𝕓𝕣𝕒𝕙𝕚𝕞'
 
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 
 global.lelang = []
 global.barter = []
 
-global.multiplier = 69 // The higher, The harder levelup
+global.multiplier =89 // The higher, The harder levelup
 
 let fs = require('fs')
 let chalk = require('chalk')
